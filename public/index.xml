@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Diego Siqueira</title>
+    <link>https://blog.diego.dev/</link>
+    <description>Recent content on Diego Siqueira</description>
+    <image>
+      <title>Diego Siqueira</title>
+      <url>https://blog.diego.dev/images/papermod-cover.png</url>
+      <link>https://blog.diego.dev/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Sep 2024 07:10:22 -0300</lastBuildDate>
+    <atom:link href="https://blog.diego.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Journey Through Browsers: From Internet Explorer to LibreWolf</title>
+      <link>https://blog.diego.dev/posts/internet-browsers/</link>
+      <pubDate>Fri, 06 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>https://blog.diego.dev/posts/internet-browsers/</guid>
+      <description>A Journey Through Browsers: From Internet Explorer to LibreWolf
+The internet has been a central part of my life for as long as I can remember. It all started in the early 2000s when my parents bought our first family computer. Back then, internet access was limited, and I could only use it on Saturdays after 2 pm because bandwidth was cheaper during off-peak hours. But those restrictions didn’t bother me; I was hooked on exploring the digital world.</description>
+    </item>
+    <item>
+      <title>Using Go to Subscribe to Ethereum New Blocks and Print Transaction Hashes</title>
+      <link>https://blog.diego.dev/posts/subscribe-ethereum-blocks-print-transaction-hashes/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>https://blog.diego.dev/posts/subscribe-ethereum-blocks-print-transaction-hashes/</guid>
+      <description>In this post, we&amp;rsquo;ll walk through how to use Go to subscribe to new blocks on the Ethereum blockchain and print out the transaction hashes for each block. This is a common task when working with Ethereum, especially for monitoring or analytics purposes.
+Prerequisites Before we start, make sure you have the following:
+Go installed on your machine.
+Access to an Ethereum node. You can use a service like Infura or run your own Ethereum node.</description>
+    </item>
+  </channel>
+</rss>

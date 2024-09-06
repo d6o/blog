@@ -1,0 +1,104 @@
+baseURL: https://blog.diego.dev/
+languageCode: en
+title: Diego Siqueira
+author: "Diego Siqueira"
+theme: [ "PaperMod" ]
+
+paginate: 5
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+mainsections: [ "posts", "papermod" ]
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Archive
+          url: archives
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Tags
+          url: tags/
+          weight: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Diego Siqueira's Blog"
+  author: Diego Siqueira
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  # comments: false
+  images: [ "images/papermod-cover.png" ]
+
+  homeInfoParams:
+    Title: "Hello! Hello!"
+    Content: >
+      👋 Welcome to my blog!
+      I'm Diego, an experienced backend developer with a focus on Go, microservices, and blockchain technologies.
+      I value building systems that are scalable and secure, and I hope to share some of that knowledge here.
+
+  socialIcons:
+    - name: github
+      title: View Source on Github
+      url: "https://github.com/d6o"
+    - name: linkedin
+      title: View my profile on Github
+      url: "https://www.linkedin.com/in/disiqueira"
+    - name: email
+      title: Send me an email
+      url: "mailto:mail@diego.dev"
+    - name: website
+      title: Check my website
+      url: "https://diego.dev"
+
+  editPost:
+    URL: "https://github.com/d6o/blog/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  assets:
+    disableHLJS: true
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
