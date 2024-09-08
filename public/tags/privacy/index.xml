@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Privacy on Diego Siqueira</title>
+    <link>http://localhost:1313/tags/privacy/</link>
+    <description>Recent content in Privacy on Diego Siqueira</description>
+    <image>
+      <title>Diego Siqueira</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Sep 2024 07:10:22 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Journey Through Browsers: From Internet Explorer to LibreWolf</title>
+      <link>http://localhost:1313/posts/internet-browsers/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/posts/internet-browsers/</guid>
+      <description>The internet has been a central part of my life for as long as I can remember. It all started in the early 2000s when my parents bought our first family computer. Back then, internet access was limited, and I could only use it on Saturdays after 2 pm because bandwidth was cheaper during off-peak hours. But those restrictions didn’t bother me; I was hooked on exploring the digital world. I spent countless hours trying to discover new game websites, looking for tips to beat my PlayStation games, or finding fun browser-based games.</description>
+    </item>
+  </channel>
+</rss>

@@ -2,30 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Diego Siqueira</title>
-    <link>https://blog.diego.dev/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Diego Siqueira</description>
     <image>
       <title>Diego Siqueira</title>
-      <url>https://blog.diego.dev/images/papermod-cover.png</url>
-      <link>https://blog.diego.dev/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Sep 2024 07:10:22 -0300</lastBuildDate>
-    <atom:link href="https://blog.diego.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Sep 2024 18:09:18 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reviving Retro Gaming With Lakka Raspberry Pi 5</title>
+      <link>http://localhost:1313/posts/reviving-retro-gaming-with-lakka-raspberry-pi-5/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/posts/reviving-retro-gaming-with-lakka-raspberry-pi-5/</guid>
+      <description>Reviving My Mom&amp;rsquo;s Love for Retro Gaming with Lakka and a Raspberry Pi 5
+A few months ago, I visited my parents and was inspired to rekindle some fond childhood memories. Back in the day, I had an Atari (not entirely sure which model), a Sega Master System Mark III, and later a PlayStation 1. But what stuck with me the most was how much my mom loved the Sega Master System, particularly Sonic the Hedgehog.</description>
+    </item>
+    <item>
+      <title>Self-Hosting a Firefox Sync Server</title>
+      <link>http://localhost:1313/posts/firefox-sync-server/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/posts/firefox-sync-server/</guid>
+      <description>After switching from Firefox to LibreWolf, I became interested in the idea of self-hosting my own Firefox Sync server. Although I had seen this was possible before, I had never really looked into it—until now. I embarked on a journey to set this up, and while it wasn&amp;rsquo;t completely smooth sailing, I eventually got it working. Here&amp;rsquo;s how it went.
+Finding the Right Sync Server Initial Search: Mozilla&amp;rsquo;s Sync Server Repo I started by searching for &amp;ldquo;firefox sync server github&amp;rdquo; and quickly found Mozilla&amp;rsquo;s syncserver repo.</description>
+    </item>
     <item>
       <title>My Journey Through Browsers: From Internet Explorer to LibreWolf</title>
-      <link>https://blog.diego.dev/posts/internet-browsers/</link>
-      <pubDate>Fri, 06 Sep 2024 07:10:22 -0300</pubDate>
-      <guid>https://blog.diego.dev/posts/internet-browsers/</guid>
-      <description>A Journey Through Browsers: From Internet Explorer to LibreWolf
-The internet has been a central part of my life for as long as I can remember. It all started in the early 2000s when my parents bought our first family computer. Back then, internet access was limited, and I could only use it on Saturdays after 2 pm because bandwidth was cheaper during off-peak hours. But those restrictions didn’t bother me; I was hooked on exploring the digital world.</description>
+      <link>http://localhost:1313/posts/internet-browsers/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/posts/internet-browsers/</guid>
+      <description>The internet has been a central part of my life for as long as I can remember. It all started in the early 2000s when my parents bought our first family computer. Back then, internet access was limited, and I could only use it on Saturdays after 2 pm because bandwidth was cheaper during off-peak hours. But those restrictions didn’t bother me; I was hooked on exploring the digital world. I spent countless hours trying to discover new game websites, looking for tips to beat my PlayStation games, or finding fun browser-based games.</description>
     </item>
     <item>
       <title>Using Go to Subscribe to Ethereum New Blocks and Print Transaction Hashes</title>
-      <link>https://blog.diego.dev/posts/subscribe-ethereum-blocks-print-transaction-hashes/</link>
+      <link>http://localhost:1313/posts/subscribe-ethereum-blocks-print-transaction-hashes/</link>
       <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
-      <guid>https://blog.diego.dev/posts/subscribe-ethereum-blocks-print-transaction-hashes/</guid>
+      <guid>http://localhost:1313/posts/subscribe-ethereum-blocks-print-transaction-hashes/</guid>
       <description>In this post, we&amp;rsquo;ll walk through how to use Go to subscribe to new blocks on the Ethereum blockchain and print out the transaction hashes for each block. This is a common task when working with Ethereum, especially for monitoring or analytics purposes.
 Prerequisites Before we start, make sure you have the following:
 Go installed on your machine.

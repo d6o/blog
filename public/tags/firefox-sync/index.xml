@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Firefox Sync on Diego Siqueira</title>
+    <link>http://localhost:1313/tags/firefox-sync/</link>
+    <description>Recent content in Firefox Sync on Diego Siqueira</description>
+    <image>
+      <title>Diego Siqueira</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.133.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Sep 2024 08:52:32 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/firefox-sync/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Self-Hosting a Firefox Sync Server</title>
+      <link>http://localhost:1313/posts/firefox-sync-server/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/posts/firefox-sync-server/</guid>
+      <description>After switching from Firefox to LibreWolf, I became interested in the idea of self-hosting my own Firefox Sync server. Although I had seen this was possible before, I had never really looked into it—until now. I embarked on a journey to set this up, and while it wasn&amp;rsquo;t completely smooth sailing, I eventually got it working. Here&amp;rsquo;s how it went.
+Finding the Right Sync Server Initial Search: Mozilla&amp;rsquo;s Sync Server Repo I started by searching for &amp;ldquo;firefox sync server github&amp;rdquo; and quickly found Mozilla&amp;rsquo;s syncserver repo.</description>
+    </item>
+  </channel>
+</rss>

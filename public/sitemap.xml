@@ -2,39 +2,150 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.diego.dev/</loc>
-    <lastmod>2024-09-06T07:10:22-03:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-09-08T18:09:18-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/posts/internet-browsers/</loc>
-    <lastmod>2024-09-06T07:10:22-03:00</lastmod>
+    <loc>http://localhost:1313/tags/go/</loc>
+    <lastmod>2024-09-08T18:09:18-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/posts/</loc>
-    <lastmod>2024-09-06T07:10:22-03:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-09-08T18:09:18-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/tags/blockchain/</loc>
+    <loc>http://localhost:1313/posts/reviving-retro-gaming-with-lakka-raspberry-pi-5/</loc>
+    <lastmod>2024-09-08T18:09:18-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-09-08T18:09:18-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/caddy/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/database/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/docker/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/firefox/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/firefox-sync/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/librewolf/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mariadb/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/open-source/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reverse-proxy/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/self-hosting/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/firefox-sync-server/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/server-management/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/syncstorage-rs/</loc>
+    <lastmod>2024-09-06T08:52:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/browser-comparison/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chrome/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/digital-privacy/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/internet-explorer/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/internet-history/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/internet-browsers/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/opera/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/privacy/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology-evolution/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ungoogled-chromium/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-browsers/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web-development/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/windows-98/</loc>
+    <lastmod>2024-09-05T07:10:22-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/blockchain/</loc>
     <lastmod>2024-08-30T02:40:37-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/tags/ethereum/</loc>
+    <loc>http://localhost:1313/tags/blockchain-analytics/</loc>
     <lastmod>2024-08-30T02:40:37-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/tags/go/</loc>
+    <loc>http://localhost:1313/tags/blockchain-monitoring/</loc>
     <lastmod>2024-08-30T02:40:37-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/tags/programming/</loc>
+    <loc>http://localhost:1313/tags/dapps/</loc>
     <lastmod>2024-08-30T02:40:37-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/decentralized-applications/</loc>
     <lastmod>2024-08-30T02:40:37-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/posts/subscribe-ethereum-blocks-print-transaction-hashes/</loc>
+    <loc>http://localhost:1313/tags/ethereum/</loc>
     <lastmod>2024-08-30T02:40:37-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/archives/</loc>
+    <loc>http://localhost:1313/tags/ethereum-development/</loc>
+    <lastmod>2024-08-30T02:40:37-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/categories/</loc>
+    <loc>http://localhost:1313/tags/ethereum-node/</loc>
+    <lastmod>2024-08-30T02:40:37-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/search/</loc>
+    <loc>http://localhost:1313/tags/go-ethereum/</loc>
+    <lastmod>2024-08-30T02:40:37-03:00</lastmod>
   </url><url>
-    <loc>https://blog.diego.dev/series/</loc>
+    <loc>http://localhost:1313/tags/infura/</loc>
+    <lastmod>2024-08-30T02:40:37-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/programming/</loc>
+    <lastmod>2024-08-30T02:40:37-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/real-time-blockchain-data/</loc>
+    <lastmod>2024-08-30T02:40:37-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/smart-contracts/</loc>
+    <lastmod>2024-08-30T02:40:37-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/subscribe-ethereum-blocks-print-transaction-hashes/</loc>
+    <lastmod>2024-08-30T02:40:37-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/web3/</loc>
+    <lastmod>2024-08-30T02:40:37-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
   </url>
 </urlset>

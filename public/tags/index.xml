@@ -2,43 +2,288 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Diego Siqueira</title>
-    <link>https://blog.diego.dev/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Diego Siqueira</description>
     <image>
       <title>Diego Siqueira</title>
-      <url>https://blog.diego.dev/images/papermod-cover.png</url>
-      <link>https://blog.diego.dev/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Aug 2024 02:40:37 -0300</lastBuildDate>
-    <atom:link href="https://blog.diego.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Sep 2024 18:09:18 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Caddy</title>
+      <link>http://localhost:1313/tags/caddy/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/caddy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>http://localhost:1313/tags/database/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firefox</title>
+      <link>http://localhost:1313/tags/firefox/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/firefox/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firefox Sync</title>
+      <link>http://localhost:1313/tags/firefox-sync/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/firefox-sync/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LibreWolf</title>
+      <link>http://localhost:1313/tags/librewolf/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/librewolf/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MariaDB</title>
+      <link>http://localhost:1313/tags/mariadb/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/mariadb/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reverse Proxy</title>
+      <link>http://localhost:1313/tags/reverse-proxy/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/reverse-proxy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Hosting</title>
+      <link>http://localhost:1313/tags/self-hosting/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/self-hosting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server Management</title>
+      <link>http://localhost:1313/tags/server-management/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/server-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syncstorage-Rs</title>
+      <link>http://localhost:1313/tags/syncstorage-rs/</link>
+      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
+      <guid>http://localhost:1313/tags/syncstorage-rs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Browser Comparison</title>
+      <link>http://localhost:1313/tags/browser-comparison/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/browser-comparison/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Chrome</title>
+      <link>http://localhost:1313/tags/chrome/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/chrome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Digital Privacy</title>
+      <link>http://localhost:1313/tags/digital-privacy/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/digital-privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet Explorer</title>
+      <link>http://localhost:1313/tags/internet-explorer/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/internet-explorer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Internet History</title>
+      <link>http://localhost:1313/tags/internet-history/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/internet-history/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Opera</title>
+      <link>http://localhost:1313/tags/opera/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/opera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>http://localhost:1313/tags/privacy/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology Evolution</title>
+      <link>http://localhost:1313/tags/technology-evolution/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/technology-evolution/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ungoogled-Chromium</title>
+      <link>http://localhost:1313/tags/ungoogled-chromium/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/ungoogled-chromium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Browsers</title>
+      <link>http://localhost:1313/tags/web-browsers/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/web-browsers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>http://localhost:1313/tags/web-development/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows 98</title>
+      <link>http://localhost:1313/tags/windows-98/</link>
+      <pubDate>Thu, 05 Sep 2024 07:10:22 -0300</pubDate>
+      <guid>http://localhost:1313/tags/windows-98/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blockchain</title>
-      <link>https://blog.diego.dev/tags/blockchain/</link>
+      <link>http://localhost:1313/tags/blockchain/</link>
       <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
-      <guid>https://blog.diego.dev/tags/blockchain/</guid>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain Analytics</title>
+      <link>http://localhost:1313/tags/blockchain-analytics/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/blockchain-analytics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blockchain Monitoring</title>
+      <link>http://localhost:1313/tags/blockchain-monitoring/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/blockchain-monitoring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DApps</title>
+      <link>http://localhost:1313/tags/dapps/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/dapps/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Decentralized Applications</title>
+      <link>http://localhost:1313/tags/decentralized-applications/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/decentralized-applications/</guid>
       <description></description>
     </item>
     <item>
       <title>Ethereum</title>
-      <link>https://blog.diego.dev/tags/ethereum/</link>
+      <link>http://localhost:1313/tags/ethereum/</link>
       <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
-      <guid>https://blog.diego.dev/tags/ethereum/</guid>
+      <guid>http://localhost:1313/tags/ethereum/</guid>
       <description></description>
     </item>
     <item>
-      <title>Go</title>
-      <link>https://blog.diego.dev/tags/go/</link>
+      <title>Ethereum Development</title>
+      <link>http://localhost:1313/tags/ethereum-development/</link>
       <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
-      <guid>https://blog.diego.dev/tags/go/</guid>
+      <guid>http://localhost:1313/tags/ethereum-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ethereum Node</title>
+      <link>http://localhost:1313/tags/ethereum-node/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/ethereum-node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go-Ethereum</title>
+      <link>http://localhost:1313/tags/go-ethereum/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/go-ethereum/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infura</title>
+      <link>http://localhost:1313/tags/infura/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/infura/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://blog.diego.dev/tags/programming/</link>
+      <link>http://localhost:1313/tags/programming/</link>
       <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
-      <guid>https://blog.diego.dev/tags/programming/</guid>
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Real-Time Blockchain Data</title>
+      <link>http://localhost:1313/tags/real-time-blockchain-data/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/real-time-blockchain-data/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smart Contracts</title>
+      <link>http://localhost:1313/tags/smart-contracts/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/smart-contracts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web3</title>
+      <link>http://localhost:1313/tags/web3/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/web3/</guid>
       <description></description>
     </item>
   </channel>
