@@ -70,13 +70,8 @@ You can customize the blog by modifying the `hugo.yaml` file located in the root
 
 ## Deployment
 
-Once you're ready to deploy the blog, you can generate the static files using:
-
-```bash
-hugo
-```
-
-This will generate the static site in the `public/` directory. You can then upload this directory to any web host.
+This blog is automatically deployed to GitHub Pages using a GitHub Actions workflow. The workflow is triggered on pushes
+to the `main` branch or when manually dispatched from the Actions tab.
 
 ## Contributing
 
