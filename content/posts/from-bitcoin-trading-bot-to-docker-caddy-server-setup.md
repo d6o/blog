@@ -1,6 +1,6 @@
 +++
 title = 'From Bitcoin Trading Bot to Docker Caddy Server Setup'
-date = 2024-09-20:59:21-03:00
+date = 2024-09-20T09:21:03-03:00
 draft = false
 tags = ["Docker", "Caddy Server", "Personal Server", "Vultr", "Bitcoin Trading", "Server Setup", "Self-Hosting", "SSL Certificates", "Reverse Proxy", "DevOps"]
 +++
