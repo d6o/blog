@@ -11,8 +11,16 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Sep 2024 08:52:32 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 01:59:21 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/reverse-proxy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Bitcoin Trading Bot to Docker Caddy Server Setup</title>
+      <link>http://localhost:1313/posts/from-bitcoin-trading-bot-to-docker-caddy-server-setup/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/posts/from-bitcoin-trading-bot-to-docker-caddy-server-setup/</guid>
+      <description>Building and Evolving My Personal Server: From Naive Trading Bots to a Streamlined Docker Setup with Caddy
+Back in 2017, I embarked on an exciting (and somewhat naive) adventure when I created my first personal server (a $2.50/month instance on Vultr). It was a modest setup—just half a shared CPU, 512 MB of RAM, and 10 GB of SSD storage—but at the time, it felt like more than enough for my needs.</description>
+    </item>
     <item>
       <title>Self-Hosting a Firefox Sync Server</title>
       <link>http://localhost:1313/posts/firefox-sync-server/</link>

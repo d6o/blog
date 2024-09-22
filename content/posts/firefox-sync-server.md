@@ -100,7 +100,8 @@ A few tips:
 
 - Be cautious with the database passwords. Avoid using special characters like `"/|%"` as they can cause issues during
   setup.
-- I optimized the Dockerfile to make better use of caching, which reduced compilation time while testing.
+- I added the BUILDKIT_INLINE_CACHE argument to the Docker Compose file to make better use of caching, which reduced
+  build time while testing.
 
 ### Initializing the Database
 

@@ -11,13 +11,167 @@
     </image>
     <generator>Hugo -- 0.133.1</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Sep 2024 18:09:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 01:59:21 -0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
+      <title>Bitcoin Trading</title>
+      <link>http://localhost:1313/tags/bitcoin-trading/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/bitcoin-trading/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Caddy Server</title>
+      <link>http://localhost:1313/tags/caddy-server/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/caddy-server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>http://localhost:1313/tags/devops/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Docker</title>
+      <link>http://localhost:1313/tags/docker/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Personal Server</title>
+      <link>http://localhost:1313/tags/personal-server/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/personal-server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reverse Proxy</title>
+      <link>http://localhost:1313/tags/reverse-proxy/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/reverse-proxy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Hosting</title>
+      <link>http://localhost:1313/tags/self-hosting/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/self-hosting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Server Setup</title>
+      <link>http://localhost:1313/tags/server-setup/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/server-setup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SSL Certificates</title>
+      <link>http://localhost:1313/tags/ssl-certificates/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/ssl-certificates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vultr</title>
+      <link>http://localhost:1313/tags/vultr/</link>
+      <pubDate>Thu, 12 Sep 2024 01:59:21 -0300</pubDate>
+      <guid>http://localhost:1313/tags/vultr/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atari</title>
+      <link>http://localhost:1313/tags/atari/</link>
       <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
-      <guid>http://localhost:1313/tags/go/</guid>
+      <guid>http://localhost:1313/tags/atari/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DIY Gaming Console</title>
+      <link>http://localhost:1313/tags/diy-gaming-console/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/diy-gaming-console/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Game Emulation</title>
+      <link>http://localhost:1313/tags/game-emulation/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/game-emulation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gaming Nostalgia</title>
+      <link>http://localhost:1313/tags/gaming-nostalgia/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/gaming-nostalgia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:1313/tags/golang/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lakka OS</title>
+      <link>http://localhost:1313/tags/lakka-os/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/lakka-os/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry Pi</title>
+      <link>http://localhost:1313/tags/raspberry-pi/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/raspberry-pi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry Pi 5</title>
+      <link>http://localhost:1313/tags/raspberry-pi-5/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/raspberry-pi-5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retro Gaming</title>
+      <link>http://localhost:1313/tags/retro-gaming/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/retro-gaming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RetroArch</title>
+      <link>http://localhost:1313/tags/retroarch/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/retroarch/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sega Master System</title>
+      <link>http://localhost:1313/tags/sega-master-system/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/sega-master-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sonic the Hedgehog</title>
+      <link>http://localhost:1313/tags/sonic-the-hedgehog/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/sonic-the-hedgehog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Projects</title>
+      <link>http://localhost:1313/tags/tech-projects/</link>
+      <pubDate>Sun, 08 Sep 2024 18:09:18 -0300</pubDate>
+      <guid>http://localhost:1313/tags/tech-projects/</guid>
       <description></description>
     </item>
     <item>
@@ -32,13 +186,6 @@
       <link>http://localhost:1313/tags/database/</link>
       <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
       <guid>http://localhost:1313/tags/database/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
-      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
-      <guid>http://localhost:1313/tags/docker/</guid>
       <description></description>
     </item>
     <item>
@@ -74,20 +221,6 @@
       <link>http://localhost:1313/tags/open-source/</link>
       <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
       <guid>http://localhost:1313/tags/open-source/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reverse Proxy</title>
-      <link>http://localhost:1313/tags/reverse-proxy/</link>
-      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
-      <guid>http://localhost:1313/tags/reverse-proxy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Self-Hosting</title>
-      <link>http://localhost:1313/tags/self-hosting/</link>
-      <pubDate>Fri, 06 Sep 2024 08:52:32 -0300</pubDate>
-      <guid>http://localhost:1313/tags/self-hosting/</guid>
       <description></description>
     </item>
     <item>
@@ -242,6 +375,13 @@
       <link>http://localhost:1313/tags/ethereum-node/</link>
       <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
       <guid>http://localhost:1313/tags/ethereum-node/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Fri, 30 Aug 2024 02:40:37 -0300</pubDate>
+      <guid>http://localhost:1313/tags/go/</guid>
       <description></description>
     </item>
     <item>
